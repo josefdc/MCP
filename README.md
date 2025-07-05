@@ -1,117 +1,118 @@
-
-
-
 <div align="center">
-
 # 👋 ¡Hola! Soy José Felipe Duarte
 
-<img sr> **Model Context Protocol (MCP)** es un protocolo abierto estándar para conectar aplicaciones de IA (especialmente las basadas en *Large Language Models*, LLMs) con fuentes de datos y herramientas externas. 
+<img src="images/profile-photo.jpg" alt="Foto de perfil" width="200" height="200" style="border-radius: 50%; border: 4px solid #FF6B6B; margin: 20px 0;">
 
-🚀 **Lanzado por Anthropic** a finales de 2024 con la meta de eliminar la fragmentación en la integración de agentes de IA con entornos reales. 
+**AI/LLM Engineer | GitHub Campus Expert 🚩 | Advocate for Tech Communities,**
 
-En lugar de crear conectores a medida para cada caso, MCP propone una forma universal (inspirada en el **Language Server Protocol** de Microsoft) de "enchufar" capacidades externas a los asistentes de IA.
-
-<div align="center">
-<blockquote>
-💡 <em>"Como un puerto USB-C para la inteligencia artificial"</em>
-</blockquote>
+<div style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/josefeldc/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/josefdc" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/josefdc_" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
 
-Con MCP, cualquier cliente compatible puede comunicarse con cualquier servidor MCP, permitiendo un **ecosistema interoperable** de agentes de IA.
-
-## 📦 Instalación y Herramientas Compatibleshttps://via.placeholder.com/200x200/4A90E2/FFFFFF?text=Tu+Foto" alt="José Daniel" width="200" height="200" style="border-radius: 50%; border: 4px solid #4A90E2;"/>
-
-### 🚀 Desarrollador Python | 🎯 Especialista en IA | 📊 Data Scientist
-
----
-
-### 🌐 Conecta conmigo:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/josefdc">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tu-perfil">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-### 📚 Sobre esta presentación:
-
-> *Este contenido fue presentado en **PyConColombia 2025** como parte de mi charla sobre el Model Context Protocol*
-
-<details>
-<summary>📋 <b>Tabla de Contenidos</b></summary>
-
-- [Instalación y Herramientas Compatibles](#instalación-y-herramientas-compatibles)
-- [Arquitectura de MCP](#arquitectura-de-mcp-hosts-clientes-servidores-y-recursos)
-- [Formato de Mensajes JSON-RPC](#formato-de-mensajes-json-rpc-en-mcp)
-- [Funcionalidades Avanzadas](#funcionalidades-avanzadas-de-mcp)
-- [Seguridad en MCP](#seguridad-en-mcp-riesgos-y-mejores-prácticas)
-
-</details>
+<div style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/PyCon-Colombia_2025-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="PyCon Colombia 2025">
+  <img src="https://img.shields.io/badge/Topic-Model_Context_Protocol-4CAF50?style=for-the-badge&logo=robot&logoColor=white" alt="MCP Topic">
+</div>
 
 ---
 
 </div>
 
-# 🔌 Model Context Protocol (MCP)
+## 📚 Recursos y Referencias Clave
 
 <div align="center">
 
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge&logo=anthropic)
-![Python](https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JSON-RPC](https://img.shields.io/badge/JSON--RPC-2.0-green?style=for-the-badge)
+### 🚀 Para Principiantes
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft-MCP_for_Beginners-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCP for Beginners">
+</a>
+<br>
+<sub><b>Guía oficial de Microsoft</b><br>Tutorial completo desde cero</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://huggingface.co/learn/mcp-course/en/unit0/introduction" target="_blank">
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-MCP_Course-FF6B35?style=for-the-badge&logoColor=white" alt="HF MCP Course">
+</a>
+<br>
+<sub><b>Curso interactivo</b><br>Aprende MCP paso a paso</sub>
+</td>
+</tr>
+</table>
+
+### 🛠️ Desarrollo y SDKs
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank">
+<img src="https://img.shields.io/badge/Python-SDK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python SDK">
+</a>
+<br>
+<sub><b>SDK Oficial Python</b><br>Construye servidores y clientes</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/modelcontextprotocol/servers" target="_blank">
+<img src="https://img.shields.io/badge/Official-Servers-4CAF50?style=for-the-badge&logo=server&logoColor=white" alt="Official Servers">
+</a>
+<br>
+<sub><b>Servidores Oficiales</b><br>Conectores pre-construidos</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/modelcontextprotocol" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-MCP_Org-181717?style=for-the-badge&logo=github&logoColor=white" alt="MCP GitHub">
+</a>
+<br>
+<sub><b>Organización Oficial</b><br>Todos los repositorios</sub>
+</td>
+</tr>
+</table>
+
+### 🔒 Seguridad y Vulnerabilidades
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/" target="_blank">
+<img src="https://img.shields.io/badge/Security-The_Lethal_Trifecta-FF4444?style=for-the-badge&logo=shield&logoColor=white" alt="Security Analysis">
+</a>
+<br>
+<sub><b>Análisis de Simon Willison</b><br>Riesgos y consideraciones críticas</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://invariantlabs.ai/blog/mcp-github-vulnerability" target="_blank">
+<img src="https://img.shields.io/badge/Invariant_Labs-MCP_Vulnerability-FFA500?style=for-the-badge&logo=security&logoColor=white" alt="MCP Vulnerability">
+</a>
+<br>
+<sub><b>Reporte de Vulnerabilidad</b><br>Caso de estudio real</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-> **Model Context Protocol (MCP)** es un protocolo abierto estándar para conectar aplicaciones de IA (especialmente las basadas en *Large Language Models*, LLMs) con fuentes de datos y herramientas externas. Fue lanzado por Anthropic a finales de 2024 con la meta de eliminar la fragmentación en la integración de agentes de IA con entornos reales. En lugar de crear conectores a medida para cada caso, MCP propone una forma universal (inspirada en el **Language Server Protocol** de Microsoft) de “enchufar” capacidades externas a los asistentes de IA – *como un puerto USB-C para la inteligencia artificial*. Con MCP, cualquier cliente compatible puede comunicarse con cualquier servidor MCP, permitiendo un ecosistema interoperable de agentes de IA.
+---
+
+# Model Context Protocol (MCP)
+
+**Model Context Protocol (MCP)** es un protocolo abierto estándar para conectar aplicaciones de IA (especialmente las basadas en *Large Language Models*, LLMs) con fuentes de datos y herramientas externas. Fue lanzado por Anthropic a finales de 2024 con la meta de eliminar la fragmentación en la integración de agentes de IA con entornos reales. En lugar de crear conectores a medida para cada caso, MCP propone una forma universal (inspirada en el **Language Server Protocol** de Microsoft) de "enchufar" capacidades externas a los asistentes de IA – *como un puerto USB-C para la inteligencia artificial*. Con MCP, cualquier cliente compatible puede comunicarse con cualquier servidor MCP, permitiendo un ecosistema interoperable de agentes de IA.
 
 ## Instalación y Herramientas Compatibles
 
-Para empezar a usar MCP, los desarrolladores pueden apoyarse en los **SDKs oficiales** disponibles en múltiples lenguajes de programación:
+Para empezar a usar MCP, los desarrolladores pueden apoyarse en los **SDKs oficiales** disponibles en múltiples lenguajes de programación (C#, Java, Kotlin, Python, Ruby, Swift, TypeScript, etc.). Estos SDK simplifican la creación de clientes y servidores MCP, manejando detalles del protocolo como el formateo JSON-RPC o la negociación de capacidades. Por ejemplo, en Python existe un paquete `mcp` oficial que se puede instalar vía **pip**, y de forma análoga hay paquetes en NPM para TypeScript, crates para Rust, etc. Además, Anthropic mantiene un repositorio abierto con numerosos **servidores MCP pre-construidos** para sistemas populares (Google Drive, Slack, GitHub, PostgreSQL, etc.), lo que permite descargar e implementar rápidamente conectores a esas herramientas.
 
-<div align="center">
-
-| 🐍 Python | 🟨 JavaScript | 🦀 Rust | 💎 Ruby | ⚡ TypeScript |
-|-----------|---------------|----------|----------|---------------|
-| `pip install mcp` | `npm install @modelcontextprotocol/sdk` | `cargo add mcp` | `gem install mcp` | `npm install @types/mcp` |
-
-</div>
-
-Estos SDK simplifican la creación de clientes y servidores MCP, manejando detalles del protocolo como el formateo JSON-RPC o la negociación de capacidades. 
-
-### 🛠️ Servidores Pre-construidos
-
-Anthropic mantiene un repositorio abierto con numerosos **servidores MCP listos para usar**:
-
-- 📁 **Google Drive** - Acceso a archivos en la nube
-- 💬 **Slack** - Integración con canales y mensajes  
-- 🐙 **GitHub** - Gestión de repositorios y issues
-- 🐘 **PostgreSQL** - Consultas a bases de datos
-- 📧 **Gmail** - Manejo de correos electrónicos
-- 🗄️ **SQLite** - Base de datos local
-
-### 🎯 Aplicaciones Compatibles
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
-
-Varias aplicaciones ya incorporan soporte nativo para MCP: Por ejemplo, la app de escritorio de **Claude** (el asistente de Anthropic) permite conectar servidores MCP locales con unos pocos clics. Otras herramientas de desarrollo han adoptado MCP pronto: editores como **Cursor** o extensiones de IDE como **Cline** (VS Code) lo usan para acceder al contexto de proyectos de código. **Codeium Windsurf** (IDE web) y **Goose** (agente de IA) son otros ejemplos de clientes MCP. Incluso **Postman** – conocido por pruebas de APIs – integró MCP en su cliente gráfico, permitiendo enviar peticiones MCP como si fueran llamadas API normales y generar servidores MCP directamente a partir de APIs públicas. Esto significa que con la versión más reciente de Postman puedes crear una petición MCP (“Nuevo → MCP”) y conectarte a cualquier servidor, explorar sus recursos/herramientas expuestos y probar interacciones sin escribir código. Por último, empresas como Docker están desarrollando entornos para ejecutar servidores MCP de forma segura en contenedores (ver sección de Seguridad), y OpenAI ha anunciado planes de adoptar MCP en sus herramientas a partir de 2025 – señal del impulso que ha cobrado este estándar.
+Varias aplicaciones ya incorporan soporte nativo para MCP, evitando configuraciones complejas. Por ejemplo, la app de escritorio de **Claude** (el asistente de Anthropic) permite conectar servidores MCP locales con unos pocos clics. Otras herramientas de desarrollo han adoptado MCP pronto: editores como **Cursor** o extensiones de IDE como **Cline** (VS Code) lo usan para acceder al contexto de proyectos de código. **Codeium Windsurf** (IDE web) y **Goose** (agente de IA) son otros ejemplos de clientes MCP. Incluso **Postman** – conocido por pruebas de APIs – integró MCP en su cliente gráfico, permitiendo enviar peticiones MCP como si fueran llamadas API normales y generar servidores MCP directamente a partir de APIs públicas. Esto significa que con la versión más reciente de Postman puedes crear una petición MCP (“Nuevo → MCP”) y conectarte a cualquier servidor, explorar sus recursos/herramientas expuestos y probar interacciones sin escribir código. Por último, empresas como Docker están desarrollando entornos para ejecutar servidores MCP de forma segura en contenedores (ver sección de Seguridad), y OpenAI ha anunciado planes de adoptar MCP en sus herramientas a partir de 2025 – señal del impulso que ha cobrado este estándar.
 
 ## Arquitectura de MCP: Hosts, Clientes, Servidores y Recursos
 
@@ -298,60 +299,6 @@ Frente a estos riesgos, se aconseja a desarrolladores y usuarios de MCP seguir c
 * **Verificar Origen y Código de Servidores:** No instale servidores MCP de terceros sin revisarlos. Mantenga una **lista de servidores aprobados** en su organización, tras realizar auditorías de seguridad y comprobar la fuente (por ejemplo, prefiera servidores oficiales o con buena reputación). Si es posible, aloje internamente los servidores críticos en lugar de depender de paquetes públicos sin control. Herramientas como *MCP Tools* o plantillas de proyecto (fka.dev) pueden ayudar a crear servidores desde cero para evitar dependencias sospechosas.
 
 * **Logging y Monitoreo:** Active registros detallados de las interacciones del agente, incluyendo los prompts finales enviados al LLM y las acciones que tomó (herramientas invocadas, con qué parámetros, etc.). Estos logs permiten posteriormente auditar comportamientos y detectar si hubo algún intento de prompt injection o uso indebido. Además, considere implementar monitoreos automáticos – por ejemplo, usar reglas que alerten si un prompt contiene frases extrañas (indicativas de inyección) o si se accede a recursos fuera de lo esperado.
-
----
-
-<div align="center">
-
-## 🎉 ¡Gracias por acompañarme en PyConColombia 2025!
-
-### 🌟 ¿Te gustó esta presentación?
-
-**¡Dale una estrella a este repositorio!** ⭐
-
-<a href="https://github.com/josefdc/MCP/stargazers">
-  <img src="https://img.shields.io/github/stars/josefdc/MCP?style=social" alt="GitHub stars"/>
-</a>
-
-### 📚 Recursos Adicionales
-
-#### 🎓 Documentación y Cursos
-
-- 📖 [Documentación Oficial de MCP](https://modelcontextprotocol.io)
-- 🎓 [MCP Course - HuggingFace](https://huggingface.co/learn/mcp-course/en/unit0/introduction) - Curso completo para principiantes
-- �‍🎓 [MCP for Beginners - Microsoft](https://github.com/microsoft/mcp-for-beginners) - Tutorial oficial de Microsoft
-
-#### 🔧 SDKs y Servidores
-
-- 🐍 [Python SDK Oficial](https://github.com/modelcontextprotocol/python-sdk) - SDK oficial para Python
-- 🗄️ [Colección de Servidores MCP](https://github.com/modelcontextprotocol/servers) - Repositorio oficial con servidores pre-construidos
-- �🐙 [GitHub de Anthropic MCP](https://github.com/modelcontextprotocol) - Organización principal en GitHub
-
-#### 🔒 Seguridad y Análisis
-
-- ⚠️ [The Lethal Trifecta - Simon Willison](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) - Análisis de seguridad crítico
-- 🛡️ [Vulnerabilidad MCP GitHub - Invariant Labs](https://invariantlabs.ai/blog/mcp-github-vulnerability) - Estudio de vulnerabilidades
-
-#### 🎥 Contenido Personal
-
-- 🎥 [Video de mi charla en PyConColombia](https://youtube.com/tu-video)
-- 📝 [Artículo en mi blog](https://tu-blog.com/mcp-article)
-
-### 💬 ¿Tienes preguntas?
-
-No dudes en abrir un **issue** en este repositorio o contactarme directamente a través de mis redes sociales.
-
----
-
-<p align="center">
-  <strong>🐍 Hecho con ❤️ para la comunidad Python de Colombia</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyConColombia-2025-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="PyConColombia 2025"/>
-</p>
-
-</div>
 
 * **Gestión Segura de Credenciales:** No coloque secretos en texto plano en archivos de configuración. Emplee variables de entorno seguras, servicios de gestión de secretos o almacenes cifrados para las API keys que usen los servidores. Asimismo, limite los alcances de cada credencial (principio de privilegio mínimo): por ejemplo, si un servidor solo necesita leer de un servicio, no le dé un token que permita borrar. Así, si ese servidor se ve comprometido, el impacto se acota.
 
