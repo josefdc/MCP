@@ -1,3 +1,5 @@
+
+
 # 👋 ¡Hola! Soy José Felipe Duarte
 <div align="center">
 <img src="images/profile-photo.jpg" alt="Foto de perfil" width="200" height="200" style="border-radius: 50%; border: 4px solid #FF6B6B; margin: 20px 0;">
