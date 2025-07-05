@@ -54,26 +54,33 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/modelcontextprotocol/python-sdk" target="_blank">
 <img src="https://img.shields.io/badge/Python-SDK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python SDK">
 </a>
 <br>
 <sub><b>SDK Oficial Python</b><br>Construye servidores y clientes</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/modelcontextprotocol/servers" target="_blank">
 <img src="https://img.shields.io/badge/Official-Servers-4CAF50?style=for-the-badge&logo=server&logoColor=white" alt="Official Servers">
 </a>
 <br>
 <sub><b>Servidores Oficiales</b><br>Conectores pre-construidos</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/modelcontextprotocol" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-MCP_Org-181717?style=for-the-badge&logo=github&logoColor=white" alt="MCP GitHub">
 </a>
 <br>
 <sub><b>Organización Oficial</b><br>Todos los repositorios</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://blog.fka.dev/blog/2025-06-11-diving-into-mcp-advanced-server-capabilities/" target="_blank">
+<img src="https://img.shields.io/badge/Advanced-Server_Capabilities-9C27B0?style=for-the-badge&logo=codeforces&logoColor=white" alt="Advanced MCP">
+</a>
+<br>
+<sub><b>Capacidades Avanzadas</b><br>Guía técnica profunda</sub>
 </td>
 </tr>
 </table>
